@@ -9,9 +9,9 @@ It includes the following steps:
 * Evaluating the quality of simplification on the dev part of an original Russain dataset presented for RuSimpleSentEval competition
 
 Following the steps, there will be 4 notebooks:
-* *Basic_evaluation_and_translation_with_Transformers*: the data preprocessing, translation and evaluation
-* *Simplification_Baselines*: making trivial and non-trivial baselines
-* *Simplification_model*: fine tuning mBart on the data
-* *Simplification Evaluation*: evaluation of simplifications
+* ## *Basic_evaluation_and_translation_with_Transformers*: the data preprocessing, translation and evaluation
+* ## *Simplification_Baselines*: making trivial and non-trivial baselines
+* ## *Simplification_model*: fine tuning mBart on the data
+* ## *Simplification Evaluation*: evaluation of simplifications
 
 For more info look at the PP.pdf file
