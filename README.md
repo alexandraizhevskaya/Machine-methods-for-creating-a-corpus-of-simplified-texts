@@ -11,11 +11,11 @@ It includes the following steps:
 
 
 Following the steps, there will be  5 notebooks:
-* ##### *MT tools comparisom+
-* ##### *Basic_evaluation_and_translation_with_Transformers*: the data preprocessing, translation and evaluation+
-* ##### *Simplification_Baselines*: making trivial and non-trivial baselines +
-* ##### *Simplification_model*: fine tuning mBart on the data +
-* ##### *Simplification Evaluation*: evaluation of simplifications +
+* ##### *Translation_and_fine_tuning_mt: trying different mt models and comparing results
+* ##### *Basic_evaluation_and_translation_with_Transformers*: the data preprocessing, translation and evaluation
+* ##### *Simplification_Baselines*: making trivial and non-trivial baselines 
+* ##### *Simplification_model*: fine tuning mBart on the data 
+* ##### *Simplification Evaluation*: evaluation of simplifications 
 
 
 For more info look at the PP.pdf file
