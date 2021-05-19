@@ -4,10 +4,11 @@ This lil project is dedicated to exploring how machine translation can contribut
 
 
 It includes the following steps:
-* ##### Translating sentence simplification corpus WikiLarge from English to Russian 
-* ##### Evaluating all the data and analyzing its main features
-* ##### Finetuning mBart on the original and translated data
-* ##### Evaluating the quality of simplification on the dev part of an original Russain dataset presented for RuSimpleSentEval competition
+* ##### Comparison of different mt methods
+* ##### Translation of sentence simplification corpus WikiLarge from English to Russian 
+* ##### Evaluation of all the data and analyzing its main features
+* ##### mBart finetuning  on the original and translated data
+* ##### Evaluation of the quality of simplification on the dev part of an original Russain dataset presented for RuSimpleSentEval competition
 
 
 Following the steps, there will be  5 notebooks:
