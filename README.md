@@ -1,4 +1,4 @@
-# Sasha_perestaet_stradat_herney_y_pishet_diplom
+# Machine_methods_for_creating_a_corpus_of_simplified_texts
 
 This lil project is dedicated to exploring how machine translation can contribute to sentence simplification for Russian.
 
