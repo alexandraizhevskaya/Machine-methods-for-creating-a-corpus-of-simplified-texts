@@ -19,4 +19,4 @@ Following the steps, there will be  5 notebooks:
 * ##### *Simplification Evaluation*: evaluation of simplifications 
 
 
-For more info look at the PP.pdf file
+For more info look at the Thesis.pdf file
